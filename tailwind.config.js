@@ -7,6 +7,7 @@ module.exports = {
         hitam : '#040404',
         abu : '#0E0E0E',
         item : '#000000', 
+        graycard : '#161616',
       },
     },
   },
